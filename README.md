@@ -27,8 +27,7 @@
 
 *  Developed a program for the certification of lift units at the enterprise "ЛифтКомплекс ДС" for more than a year.
 
-### My opensource project
-* [MQTTTools](https://github.com/Deathstro-k/MqttToolsMVVM) - Allows you to set up and run a local or public MQTT server in a few clicks. It also allows you to monitor events (subscription, unsubscribe, publication, connection, disconnection). This project is created using WPF (MVVM pattern) technology. [At the development stage.] 
+
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deathstro-k)](https://github.com/anuraghazra/github-readme-stats)
 
